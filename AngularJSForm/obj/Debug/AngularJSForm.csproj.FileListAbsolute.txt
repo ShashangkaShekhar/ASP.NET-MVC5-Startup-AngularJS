@@ -1,0 +1,225 @@
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\csc.exe
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\vbc.exe
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\AngularJSForm.dll.config
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\AngularJSForm.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\AngularJSForm.pdb
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Helpers.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Http.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Mvc.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Razor.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Webpages.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Razor.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Webpages.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Helpers.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Mvc.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Http.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\obj\Debug\AngularJSForm.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\obj\Debug\AngularJSForm.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\obj\Debug\AngularJSForm.pdb
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\EntityFramework.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\EntityFramework.xml
+E:\MyWork\Article\Angular\AngularJSForm\AngularJSForm\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\csc.exe
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\vbc.exe
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\AngularJSForm.dll.config
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\AngularJSForm.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\AngularJSForm.pdb
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\EntityFramework.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Helpers.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Http.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Mvc.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Razor.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Webpages.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\EntityFramework.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Razor.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Webpages.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Helpers.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Mvc.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Http.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\obj\Debug\AngularJSForm.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\obj\Debug\AngularJSForm.dll
+E:\MyWork\Article\Angular\AngularJS\AngularJSForm\obj\Debug\AngularJSForm.pdb
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\csc.exe
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\vbc.exe
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\AngularJSForm.dll.config
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\AngularJSForm.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\AngularJSForm.pdb
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\EntityFramework.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Helpers.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Http.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Mvc.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Razor.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Webpages.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\EntityFramework.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Razor.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Webpages.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Helpers.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Mvc.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Http.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\obj\Debug\AngularJSForm.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\obj\Debug\AngularJSForm.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS - Package\AngularJSForm\obj\Debug\AngularJSForm.pdb
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\csc.exe
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\vbc.exe
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\AngularJSForm.dll.config
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\AngularJSForm.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\AngularJSForm.pdb
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\EntityFramework.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Helpers.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Http.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Mvc.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Razor.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Webpages.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\EntityFramework.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Razor.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Webpages.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Helpers.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Mvc.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Http.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\obj\Debug\AngularJSForm.csprojResolveAssemblyReference.cache
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\obj\Debug\AngularJSForm.dll
+E:\MyWork\Article\Angular\Part - 1\AngularJS\AngularJSForm\obj\Debug\AngularJSForm.pdb
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\obj\Debug\AngularJSForm.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\obj\Debug\AngularJSForm.pdb
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\csc.exe
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\System.Collections.Immutable.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\vbc.exe
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\VBCSCompiler.exe
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\roslyn\VBCSCompiler.exe.config
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\AngularJSForm.dll.config
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\AngularJSForm.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\AngularJSForm.pdb
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\EntityFramework.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\EntityFramework.SqlServer.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\Microsoft.Web.Infrastructure.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\Newtonsoft.Json.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Net.Http.Formatting.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Helpers.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Http.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Http.WebHost.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Mvc.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Razor.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Webpages.Deployment.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Webpages.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Webpages.Razor.dll
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\EntityFramework.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\EntityFramework.SqlServer.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Razor.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Webpages.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Webpages.Deployment.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Webpages.Razor.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Helpers.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Mvc.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\Newtonsoft.Json.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Net.Http.Formatting.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Http.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\bin\System.Web.Http.WebHost.xml
+E:\MyWork\Article\Angular\Part - 1\ASP.NET MVC 5 with AngularJS Part – 1\AngularJSForm\obj\Debug\AngularJSForm.csprojResolveAssemblyReference.cache

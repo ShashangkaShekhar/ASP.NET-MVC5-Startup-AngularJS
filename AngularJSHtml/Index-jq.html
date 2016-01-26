@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    First Name: <input type="text" id="txtfName" /> <br />
+    Last Name: <input type="text" id="txtlName" /> <br />
+    Result: <label id="lblName"></label>
+</body>
+</html>
+<script src="Scripts/jquery-2.2.0.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $(function () {
+            $('#txtfName').keyup(function () {
+                $('#lblName').text($('#txtfName').val() + ' ' + $('#txtlName').val());
+            });
+
+            $('#txtlName').keyup(function () {
+                $('#lblName').text($('#txtfName').val() + ' ' + $('#txtlName').val());
+            });
+        });
+    });
+</script>

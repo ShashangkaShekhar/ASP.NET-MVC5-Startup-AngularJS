@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+
+</head>
+<body ng-app="myApp">
+    <div ng-controller="alertController">
+        <input type="submit" value="Create" ng-click="alert()" />
+    </div>
+    <hr />
+</body>
+</html>
+
+<script src="Scripts/angular.min.js"></script>
+<script type="text/javascript">
+    var myApp = angular.module('myApp', []);
+    myApp.controller("alertController", function ($scope, $window) {
+        $scope.alert = function () {
+            alert("Hello")
+        }
+    });
+</script>
+
